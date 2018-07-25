@@ -1,0 +1,2 @@
+# cursogit
+Añadimos readme
